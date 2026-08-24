@@ -1,0 +1,11 @@
+trip_id,weather_condition,bus_type,traffic_level,route_distance_km,stops_count,passenger_count,driver_experience_years,scheduled_start_hour
+NEW001,Clear,Express,Low,5.8,6,18,12.0,10
+NEW002,Rainy,Standard,High,14.5,16,40,4.5,18
+NEW003,Foggy,Mini Bus,Severe,24.0,27,58,2.5,7
+NEW004,Windy,Standard,Moderate,9.2,10,32,7.0,14
+NEW005,Clear,Mini Bus,High,12.8,14,48,3.2,8
+NEW006,Rainy,Express,Severe,21.5,23,52,6.5,17
+NEW007,Clear,Standard,Low,3.5,4,12,15.0,6
+NEW008,Foggy,Express,Moderate,17.2,18,35,9.0,20
+NEW009,Windy,Mini Bus,High,8.7,9,44,1.5,22
+NEW010,Rainy,Standard,Moderate,28.0,31,60,5.0,12
