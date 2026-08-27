@@ -1,4 +1,4 @@
-# 🚌 Public Bus Operations AI
+# 🚌 Public Bus Operations ML
 
 A machine learning project for predicting **bus delay levels** and **trip duration** using operational, route, traffic, weather, and driver-related data.
 
